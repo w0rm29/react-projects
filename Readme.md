@@ -1,2 +1,2 @@
 ### React Projects
-Hangman game
+1. Hangman game
